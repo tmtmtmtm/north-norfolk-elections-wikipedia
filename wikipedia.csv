@@ -1,0 +1,116 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q76363201,Duncan Baker,Q9626,Conservative Party (UK),29792,Q30173038,General election 2019,1
+,Karen Ward,Q9624,Liberal Democrats (UK),15397,Q30173038,General election 2019,2
+,Emma Corlett,Q9630,Labour Party (UK),3895,Q30173038,General election 2019,3
+,Harry Gywnne,Q61651140,Brexit Party,1739,Q30173038,General election 2019,4
+Q750179,Norman Lamb,Q9624,Liberal Democrats (UK),25260,Q25052149,General election 2017,1
+Q76450761,James Wild,Q9626,Conservative Party (UK),21748,Q25052149,General election 2017,2
+,Stephen Burke,Q9630,Labour Party (UK),5180,Q25052149,General election 2017,3
+Q750179,Norman Lamb,Q9624,Liberal Democrats (UK),19299,Q3586935,General election 2015,1
+,Ann Steward,Q9626,Conservative Party (UK),15256,Q3586935,General election 2015,2
+,Michael Baker,Q10647,UK Independence Party,8328,Q3586935,General election 2015,3
+,Denise Burke,Q9630,Labour Party (UK),5043,Q3586935,General election 2015,4
+,Mike Macartney-Filgate,Q9669,Green Party of England and Wales,1488,Q3586935,General election 2015,5
+Q750179,Norman Lamb,Q9624,Liberal Democrats (UK),27554,Q215622,General election 2010,1
+,Trevor Ivory,Q9626,Conservative Party (UK),15928,Q215622,General election 2010,2
+,Phil Harris,Q9630,Labour Party (UK),2896,Q215622,General election 2010,3
+,Michael Baker,Q10647,UK Independence Party,2680,Q215622,General election 2010,4
+,Andrew Boswell,Q9669,Green Party of England and Wales,508,Q215622,General election 2010,5
+,Simon Mann,Q327591,Independent politician,95,Q215622,General election 2010,6
+Q750179,Norman Lamb,Q9624,Liberal Democrats (UK),31515,Q428598,General election 2005,1
+Q5980420,Iain Dale,Q9626,Conservative Party (UK),20909,Q428598,General election 2005,2
+,Phil Harris,Q9630,Labour Party (UK),5447,Q428598,General election 2005,3
+Q1338217,Stuart Agnew,Q10647,UK Independence Party,978,Q428598,General election 2005,4
+,Justin Appleyard,Q327591,Independent politician,116,Q428598,General election 2005,5
+Q750179,Norman Lamb,Q9624,Liberal Democrats (UK),23978,Q590740,General election 2001,1
+Q5238722,David Prior,Q9626,Conservative Party (UK),23495,Q590740,General election 2001,2
+,Mike Gates,Q9630,Labour Party (UK),7490,Q590740,General election 2001,3
+,Mike Sheridan,Q9669,Green Party of England and Wales,649,Q590740,General election 2001,4
+,Paul Simison,Q10647,UK Independence Party,608,Q590740,General election 2001,5
+Q5238722,David Prior,Q9626,Conservative Party (UK),21456,Q918503,General election 1997,1
+Q750179,Norman Lamb,Q9624,Liberal Democrats (UK),20163,Q918503,General election 1997,2
+,Michael Cullingham,Q9630,Labour Party (UK),14736,Q918503,General election 1997,3
+,John Allen,Q278315,Referendum Party,2458,Q918503,General election 1997,4
+Q7287662,Ralph Howell,Q9626,Conservative Party (UK),28810,Q543609,General election 1992,1
+Q750179,Norman Lamb,Q9624,Liberal Democrats (UK),16265,Q543609,General election 1992,2
+,Michael Cullingham,Q9630,Labour Party (UK),13850,Q543609,General election 1992,3
+Q444350,Angie Zelter,Q9669,Green Party of England and Wales,559,Q543609,General election 1992,4
+,S. Jackson,Q491782,Natural Law Party,167,Q543609,General election 1992,5
+Q7287662,Ralph Howell,Q9626,Conservative Party (UK),28822,Q918472,General election 1987,1
+,Neil Anthony,Q7389478,SDP–Liberal Alliance,13512,Q918472,General election 1987,2
+,Anthony Earle,Q9630,Labour Party (UK),10765,Q918472,General election 1987,3
+,Michael Filgate,Q3499324,Green Party (UK),960,Q918472,General election 1987,4
+Q7287662,Ralph Howell,Q9626,Conservative Party (UK),26230,Q918466,General election 1983,1
+,John Elworthy,Q7389478,SDP–Liberal Alliance,13007,Q918466,General election 1983,2
+,Edward Barber,Q9630,Labour Party (UK),9317,Q918466,General election 1983,3
+Q7287662,Ralph Howell,Q9626,Conservative Party (UK),43952,Q918450,General election 1979,1
+,R. S. Dimmick,Q9630,Labour Party (UK),22126,Q918450,General election 1979,2
+,G. R. Collings,Q622441,Liberal Party (UK),10643,Q918450,General election 1979,3
+,A. C. R. Sizeland,Q158093,National Front (United Kingdom),548,Q918450,General election 1979,4
+Q7287662,Ralph Howell,Q9626,Conservative Party (UK),33312,Q918508,General election October 1974,1
+,D. M. Mason,Q9630,Labour Party (UK),22191,Q918508,General election October 1974,2
+Q28359839,Richard Moore,Q622441,Liberal Party (UK),13776,Q918508,General election October 1974,3
+Q7287662,Ralph Howell,Q9626,Conservative Party (UK),35684,Q119524,General election February 1974,1
+,D. M. Mason,Q9630,Labour Party (UK),21394,Q119524,General election February 1974,2
+Q28359839,Richard Moore,Q622441,Liberal Party (UK),17853,Q119524,General election February 1974,3
+Q7287662,Ralph Howell,Q9626,Conservative Party (UK),24587,Q918442,General election 1970,1
+Q333698,Bert Hazell,Q9630,Labour Party (UK),19903,Q918442,General election 1970,2
+Q333698,Bert Hazell,Q9630,Labour Party (UK),20796,Q918430,General election 1966,1
+Q7287662,Ralph Howell,Q9626,Conservative Party (UK),20059,Q918430,General election 1966,2
+Q333698,Bert Hazell,Q9630,Labour Party (UK),19360,Q220208,General election 1964,1
+,Frank Henry Easton,Q9626,Conservative Party (UK),19307,Q220208,General election 1964,2
+Q5346452,Edwin Gooch,Q9630,Labour Party (UK),19784,Q918420,General election 1959,1
+,Frank Henry Easton,Q1354368,Conservative and National Liberal,19126,Q918420,General election 1959,2
+Q5346452,Edwin Gooch,Q9630,Labour Party (UK),20899,Q918412,General election 1955,1
+,William Scarlett Jameson,Q1354368,National Liberal and Conservative,19657,Q918412,General election 1955,2
+Q5346452,Edwin Gooch,Q9630,Labour Party (UK),21067,Q3722280,General election 1951,1
+,Douglas M. Reid,Q1354368,Conservative and National Liberal,20788,Q3722280,General election 1951,2
+Q5346452,Edwin Gooch,Q9630,Labour Party (UK),19790,Q748667,General election 1950,1
+,Douglas M. Reid,Q1354368,Conservative and National Liberal,17741,Q748667,General election 1950,2
+,Arnold Jones,Q622441,Liberal Party (UK),3703,Q748667,General election 1950,3
+Q5346452,Edwin Gooch,Q9630,Labour Party (UK),17753,Q918397,General election 1945,1
+Q7788580,Thomas Cook,Q9626,Conservative Party (UK),12507,Q918397,General election 1945,2
+Q7788580,Thomas Cook,Q9626,Conservative Party (UK),17863,Q918378,General election 1935,1
+Q6698437,Lucy Noel-Buxton,Q9630,Labour Party (UK),14465,Q918378,General election 1935,2
+Q7788580,Thomas Cook,Q9626,Conservative Party (UK),19988,Q918375,General election 1931,1
+Q6698437,Lucy Noel-Buxton,Q9630,Labour Party (UK),13035,Q918375,General election 1931,2
+Q6698437,Lucy Noel-Buxton,Q9630,Labour Party (UK),14821,Q16900508,1930 North Norfolk by-election,1
+Q7788580,Thomas Cook,Q9626,Conservative Party (UK),14642,Q16900508,1930 North Norfolk by-election,2
+Q2365347,Noel Buxton,Q9630,Labour Party (UK),14544,Q517639,General election 1929,1
+Q7788580,Thomas Cook,Q9626,Unionist Party (UK),12661,Q517639,General election 1929,2
+Q27825388,Zelia Hoffman,Q622441,Liberal Party (UK),3407,Q517639,General election 1929,3
+Q2365347,Noel Buxton,Q9630,Labour Party (UK),11978,Q2632991,General election 1924,1
+Q7788580,Thomas Cook,Q9626,Unionist Party (UK),9974,Q2632991,General election 1924,2
+Q6792819,Maurice Alexander,Q622441,Liberal Party (UK),2637,Q2632991,General election 1924,3
+Q2365347,Noel Buxton,Q9630,Labour Party (UK),12278,Q3084294,General election 1923,1
+,Brian Smith,Q9626,Unionist Party (UK),9022,Q3084294,General election 1923,2
+Q2365347,Noel Buxton,Q9630,Labour Party (UK),12004,Q3084303,General election 1922,1
+,Roger Bowan Crewdson,Q9626,Unionist Party (UK),10975,Q3084303,General election 1922,2
+Q5301689,Douglas King,Q327591,Independent (politician),9274,Q3042701,General election 1918,1
+Q2365347,Noel Buxton,Q622441,Liberal Party (UK),9061,Q3042701,General election 1918,2
+Q2365347,Noel Noel-Buxton,Q622441,Liberal Party (UK),5187,Q3076583,General election December 1910,1
+Q5301689,Douglas King,Q9626,Conservative Party (UK),4491,Q3076583,General election December 1910,2
+Q2365347,Noel Noel-Buxton,Q622441,Liberal Party (UK),5189,Q3075752,General election January 1910,1
+Q5301689,Douglas King,Q9626,Conservative Party (UK),4604,Q3075752,General election January 1910,2
+Q8005851,William Brampton Gurdon,Q622441,Liberal Party (UK),5155,Q3076606,General election 1906,1
+,F. T. S. Rippingall,Q9626,Conservative Party (UK),3628,Q3076606,General election 1906,2
+Q8005851,William Brampton Gurdon,Q622441,Liberal Party (UK),4490,Q918358,General election 1900,1
+,Henry Spencer Follett,Q9626,Conservative Party (UK),3493,Q918358,General election 1900,2
+Q8005851,William Brampton Gurdon,Q622441,Liberal Party (UK),4775,,1899 North Norfolk by-election,1
+Q17421427,Kenneth Kemp,Q9626,Conservative Party (UK),3610,,1899 North Norfolk by-election,2
+Q5733833,Herbert Cozens-Hardy,Q622441,Liberal Party (UK),4246,Q7888019,General election,1
+Q17421427,Kenneth Kemp,Q9626,Conservative Party (UK),3738,Q7888019,General election,2
+Q5733833,Herbert Cozens-Hardy,Q622441,Liberal Party (UK),4561,Q7888018,General election,1
+,John Cator,Q9626,Conservative Party (UK),3278,Q7888018,General election,2
+Q5733833,Herbert Cozens-Hardy,Q622441,Liberal Party (UK),4084,Q7888016,General election 1886,1
+Q4697105,Ailwyn Fellowes,Q9626,Conservative Party (UK),3324,Q7888016,General election 1886,2
+Q5733833,Herbert Cozens-Hardy,Q622441,Liberal Party (UK),5028,Q3397257,General election 1885,1
+Q7528945,Samuel Hoare,Q9626,Conservative Party (UK),3342,Q3397257,General election 1885,2
+Q5341898,Edward Birkbeck,Q9626,Conservative Party (UK),2742,Q16909478,1879 by-election,1
+Q334449,Thomas Buxton,Q622441,Liberal Party (UK),2252,Q16909478,1879 by-election,2
+Q6132890,James Duff,Q9626,Conservative Party (UK),2302,Q16909479,1876 by-election,1
+Q334449,Thomas Buxton,Q622441,Liberal Party (UK),2192,Q16909479,1876 by-election,2
+Q5498984,Frederick Walpole,Q9626,Conservative Party (UK),2630,Q2074525,General election 1868,1
+Q5339628,Edmund Lacon,Q9626,Conservative Party (UK),2563,Q2074525,General election 1868,2
+Q5338935,Edmond Wodehouse,Q622441,Liberal Party (UK),2235,Q2074525,General election 1868,3
+Q7345003,Robert Gurdon,Q622441,Liberal Party (UK),2078,Q2074525,General election 1868,4
