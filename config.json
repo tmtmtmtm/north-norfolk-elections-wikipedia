@@ -1,0 +1,20 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/North_Norfolk_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q1052262",
+    "start": "1885",
+    "end": "9999"
+  }, {
+    "id": "Q56185607",
+    "start": "1868",
+    "end": "1885"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
