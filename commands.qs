@@ -74,12 +74,7 @@ Q5346452	P3602	Q748667	P768	Q1052262	P102	Q9630	P1111	19790	P1352	1	S4656	"https
 Q5346452	P3602	Q3722280	P768	Q1052262	P102	Q9630	P1111	21067	P1352	1	S4656	"https://en.wikipedia.org/wiki/North_Norfolk_(UK_Parliament_constituency)"
 Q5346452	P3602	Q918420	P768	Q1052262	P102	Q9630	P1111	19784	P1352	1	S4656	"https://en.wikipedia.org/wiki/North_Norfolk_(UK_Parliament_constituency)"
 Q5346452	P3602	Q918412	P768	Q1052262	P102	Q9630	P1111	20899	P1352	1	S4656	"https://en.wikipedia.org/wiki/North_Norfolk_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Emma Corlett"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q1052262	P102	Q9630	P1111	3895	P1352	3	S4656	"https://en.wikipedia.org/wiki/North_Norfolk_(UK_Parliament_constituency)"
+Q75621697	P3602	Q30173038	P768	Q1052262	P102	Q9630	P1111	3895	P1352	3	S4656	"https://en.wikipedia.org/wiki/North_Norfolk_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"F. T. S. Rippingall"
@@ -100,12 +95,7 @@ LAST	Len	"G. R. Collings"
 LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q918450	P768	Q1052262	P102	Q622441	P1111	10643	P1352	3	S4656	"https://en.wikipedia.org/wiki/North_Norfolk_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Harry Gywnne"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q1052262	P102	Q61651140	P1111	1739	P1352	4	S4656	"https://en.wikipedia.org/wiki/North_Norfolk_(UK_Parliament_constituency)"
+Q76509610	P3602	Q30173038	P768	Q1052262	P102	Q61651140	P1111	1739	P1352	4	S4656	"https://en.wikipedia.org/wiki/North_Norfolk_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Henry Spencer Follett"

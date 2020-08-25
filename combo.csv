@@ -1,8 +1,8 @@
 foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
 ,Q76363201,Duncan Baker,Q9626,Conservative Party (UK),29792,Q30173038,General election 2019,1
 Q76738140,,Karen Ward,Q9624,Liberal Democrats (UK),15397,Q30173038,General election 2019,2
-,,Emma Corlett,Q9630,Labour Party (UK),3895,Q30173038,General election 2019,3
-,,Harry Gywnne,Q61651140,Brexit Party,1739,Q30173038,General election 2019,4
+Q75621697,,Emma Corlett,Q9630,Labour Party (UK),3895,Q30173038,General election 2019,3
+Q76509610,,Harry Gywnne,Q61651140,Brexit Party,1739,Q30173038,General election 2019,4
 ,Q750179,Norman Lamb,Q9624,Liberal Democrats (UK),25260,Q25052149,General election 2017,1
 ,Q76450761,James Wild,Q9626,Conservative Party (UK),21748,Q25052149,General election 2017,2
 ,,Stephen Burke,Q9630,Labour Party (UK),5180,Q25052149,General election 2017,3
