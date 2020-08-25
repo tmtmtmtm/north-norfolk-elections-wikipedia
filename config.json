@@ -13,6 +13,7 @@
   "new_person_description": "UK election candidate",
   "mapping": {
     "election": {
+      "1899 North Norfolk by-election": "Q98629017"
     },
     "party" : {
     }
